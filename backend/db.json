@@ -1,0 +1,405 @@
+{
+  "women": [
+    {
+      "url": "https://images.asos-media.com/products/asos-edition-ultimate-fringe-trapeze-mini-dress-in-yellow/206140961-1-yellow/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 136,
+      "title": "ASOS EDITION ultimate fringe trapeze mini dress in yellow",
+      "size": "L",
+      "style": "Bodycon",
+      "brand": "ASOS CURVE",
+      "color": "Yellow",
+      "id": 1
+    },
+    {
+      "url": "https://images.asos-media.com/products/asos-luxe-cotton-poplin-pleated-bandeau-mini-skater-dress-in-apricot/206124083-1-orange/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shirt",
+      "price": 100,
+      "title": "ASOS LUXE cotton poplin pleated bandeau mini skater dress in apricot",
+      "size": "M",
+      "style": "Wide Leg",
+      "brand": "ASOS CURVE",
+      "color": "Neutral",
+      "id": 2
+    },
+    {
+      "url": "https://images.asos-media.com/products/vero-moda-one-shoulder-plisse-maxi-dresss-in-pastel-palm-print/206512925-1-multi/?$n_480w$&wid=476&fit=constrain",
+      "category": "Dresses",
+      "price": 76,
+      "title": "Vero Moda one shoulder plisse maxi dresss in pastel palm print",
+      "size": "S",
+      "style": "Wide Leg",
+      "brand": "Bardot",
+      "color": "Violet",
+      "id": 3
+    },
+    {
+      "url": "https://images.asos-media.com/products/topshop-flutter-sleeve-mini-tea-dress-in-red-ditsy-floral/206442767-1-red/?$n_480w$&wid=476&fit=constrain",
+      "category": "Skirts",
+      "price": 48,
+      "title": "Topshop flutter sleeve mini tea dress in red ditsy floral",
+      "size": "XL",
+      "style": "Split",
+      "brand": "ASOS CURVE",
+      "color": "Pink",
+      "id": 4
+    },
+    {
+      "url": "https://images.asos-media.com/products/topshop-flutter-sleeve-mini-tea-dress-in-bright-yellow-print/206442745-1-yellow/?$n_480w$&wid=476&fit=constrain",
+      "category": "Dresses",
+      "price": 48,
+      "title": "Topshop flutter sleeve mini tea dress in bright yellow print",
+      "size": "2XS",
+      "style": "A Line",
+      "brand": "ASOS DESIGN",
+      "color": "Yellow",
+      "id": 5
+    },
+    {
+      "url": "https://images.asos-media.com/products/asos-edition-jersey-contrast-fabric-tshirt-dress-with-drop-waist-in-olive-green/206247221-1-olivegreen/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 87,
+      "title": "ASOS EDITION jersey contrast fabric tshirt dress with drop waist in olive green",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "ASOS EDITION",
+      "color": "Neutral",
+      "id": 6
+    },
+    {
+      "url": "https://images.asos-media.com/products/new-look-knitted-bandeau-top-in-orange/206311409-1-orange/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 84,
+      "title": "New Look knitted bandeau top in orange",
+      "size": "2XS",
+      "style": "Backless",
+      "brand": "Emsee",
+      "color": "Orange",
+      "id": 7
+    },
+    {
+      "url": "https://images.asos-media.com/products/new-look-slinky-ruched-side-maxi-dress-in-brown/206311356-1-brown/?$n_480w$&wid=476&fit=constrain",
+      "category": "Swimwear",
+      "price": 38,
+      "title": "New Look slinky ruched side maxi dress in brown",
+      "size": "XL",
+      "style": "Cropped",
+      "brand": "Emsee",
+      "color": "Violet",
+      "id": 8
+    },
+    {
+      "url": "https://images.asos-media.com/products/asos-edition-embroidered-floral-square-neck-midi-dress-in-white/205755986-1-white/?$n_480w$&wid=476&fit=constrain",
+      "category": "Dresses",
+      "price": 126,
+      "title": "ASOS EDITION embroidered floral square neck midi dress in white",
+      "size": "XS",
+      "style": "Regular",
+      "brand": "ASOS EDITION",
+      "color": "white",
+      "id": 9
+    },
+    {
+      "url": "https://images.asos-media.com/products/cotton-on-relaxed-oversized-short-sleeve-shirt-in-linen-look-white/206251384-1-white/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 147,
+      "title": "Cotton On relaxed oversized short sleeve shirt in linen look white",
+      "size": "S",
+      "style": "Cropped",
+      "brand": "ASOS LUXE",
+      "color": "white",
+      "id": 10
+    },
+    {
+      "url": "https://images.asos-media.com/products/pullbear-knitted-semi-sheer-sleeveless-midaxi-dress-in-brown/206718328-1-brown/?$n_480w$&wid=476&fit=constrain",
+      "category": "Dresses",
+      "price": 34,
+      "title": "Pull&Bear knitted semi sheer sleeveless midaxi dress in brown",
+      "size": "L",
+      "style": "Regular",
+      "brand": "Emsee",
+      "color": "Neutral",
+      "id": 11
+    },
+    {
+      "url": "https://images.asos-media.com/products/asos-edition-clean-halter-trapeze-maxi-dress-with-pockets-in-abstract-print/205927696-1-pinkabstractprint/?$n_480w$&wid=476&fit=constrain",
+      "category": "Dresses",
+      "price": 95,
+      "title": "ASOS EDITION clean halter trapeze maxi dress with pockets in abstract print",
+      "size": "M",
+      "style": "Regular",
+      "brand": "ASOS EDITION",
+      "color": "Multi",
+      "id": 12
+    },
+    {
+      "url": "https://images.asos-media.com/products/esmee-knit-beach-trouser-co-ord-in-dusty-blue/206086915-1-blue/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 73,
+      "title": "Esmee knit beach trouser co-ord in dusty blue",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "Emsee",
+      "color": "Blue",
+      "id": 13
+    },
+    {
+      "url": "https://images.asos-media.com/products/topshop-cupro-cami-midi-dress-in-black/206059226-1-black/?$n_480w$&wid=476&fit=constrain",
+      "category": "Swimwear",
+      "price": 87,
+      "title": "Topshop cupro cami midi dress in black",
+      "size": "XS-S",
+      "style": "Regular",
+      "brand": "Glamorous",
+      "color": "Black",
+      "id": 14
+    },
+    {
+      "url": "https://images.asos-media.com/products/asos-edition-embroidered-halterneck-top-with-cut-work-in-black/205801290-1-black/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 69,
+      "title": "ASOS EDITION embroidered halterneck top with cut work in black",
+      "size": "S",
+      "style": "Regular",
+      "brand": "ASOS EDITION",
+      "color": "Black",
+      "id": 15
+    },
+    {
+      "url": "https://images.asos-media.com/products/south-beach-striped-straw-woven-shoulder-tote-bag-in-green-and-natural/205529644-1-green/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 19,
+      "title": "South Beach striped straw woven shoulder tote bag in green and natural",
+      "size": "S",
+      "style": "Regular",
+      "brand": "Bardot",
+      "color": "Green",
+      "id": 16
+    },
+    {
+      "url": "https://images.asos-media.com/products/river-island-macrame-mini-dress-in-brown/206280195-1-brown/?$n_480w$&wid=476&fit=constrain",
+      "category": "Skirts",
+      "price": 18,
+      "title": "River Island macrame mini dress in brown",
+      "size": "XS",
+      "style": "Tired",
+      "brand": "Bardot",
+      "color": "Violet",
+      "id": 17
+    }
+  ],
+  "men": [
+    {
+      "url": "https://images.asos-media.com/products/topman-knitted-cotton-revere-polo-in-stone/206527858-1-stone/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 136,
+      "title": "Topman knitted cotton revere polo in stone",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "ASOS CURVE",
+      "color": "white",
+      "id": 1
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-floral-embroidered-knitted-revere-shirt-in-ecru/206527818-1-ecru/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shirt",
+      "price": 47,
+      "title": "Topman floral embroidered knitted revere shirt in ecru",
+      "size": "2XS",
+      "style": "Relaxed",
+      "brand": "Jack & Jones",
+      "color": "Pink",
+      "id": 2
+    },
+    {
+      "url": "https://images.asos-media.com/products/abercrombie-fitch-crochet-knit-muscle-vest-in-tan/206654571-2/?$n_480w$&wid=476&fit=constrain",
+      "category": "Pant",
+      "price": 87,
+      "title": "Abercrombie & Fitch crochet knit muscle vest in tan",
+      "size": "M",
+      "style": "Regular",
+      "brand": "Ellese",
+      "color": "Neutral",
+      "id": 3
+    },
+    {
+      "url": "https://images.asos-media.com/products/jack-jones-oversized-palm-resort-back-print-t-shirt-in-white/206209558-1-marshmallow/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 17,
+      "title": "Jack & Jones oversized palm resort back print t-shirt in white",
+      "size": "L",
+      "style": "Cargo",
+      "brand": "Jack & Jones",
+      "color": "white",
+      "id": 4
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-compact-cotton-wide-leg-trouser-in-stone/205709635-1-stone/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 49,
+      "title": "Topman compact cotton wide leg trouser in stone",
+      "size": "XS",
+      "style": "Denim",
+      "brand": "ASOS CURVE",
+      "color": "Multi",
+      "id": 5
+    },
+    {
+      "url": "https://images.asos-media.com/products/pullbear-textured-stripe-revere-neck-shirt-in-ecru/206562819-1-ecru/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shorts",
+      "price": 49,
+      "title": "Pull&Bear textured stripe revere neck shirt in ecru",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "Parlez",
+      "color": "Violet",
+      "id": 6
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-short-sleeve-relaxed-burn-out-shirt-in-orange/205880779-1-orange/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 40,
+      "title": "Topman short sleeve relaxed burn out shirt in orange",
+      "size": "S",
+      "style": "Regular",
+      "brand": "ASOS CURVE",
+      "color": "Orange",
+      "id": 7
+    },
+    {
+      "url": "https://images.asos-media.com/products/ray-ban-emy-square-metal-sunglasses-in-black-gold/206186330-1-black/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 74,
+      "title": "Ray-Ban emy square metal sunglasses in black/gold",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "Lay-Ban",
+      "color": "white",
+      "id": 8
+    },
+    {
+      "url": "https://images.asos-media.com/products/the-north-face-heritage-class-v-pathfinder-belted-cargo-shorts-in-beige/205751510-1-beige/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shorts",
+      "price": 98,
+      "title": "The North Face Heritage Class V Pathfinder belted cargo shorts in beige",
+      "size": "L",
+      "style": "Denim",
+      "brand": "ASOS CURVE",
+      "color": "Neutral",
+      "id": 9
+    },
+    {
+      "url": "https://images.asos-media.com/products/adidas-originals-three-stripe-t-shirt-in-black/203390260-1-black/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 28,
+      "title": "adidas Originals three stripe t-shirt in black",
+      "size": "2XS",
+      "style": "Regular",
+      "brand": "Ellese",
+      "color": "Black",
+      "id": 10
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-broderie-short-in-brown/204646620-1-brown/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 76,
+      "title": "Topman broderie short in brown",
+      "size": "XS",
+      "style": "Denim",
+      "brand": "Jack & Jones",
+      "color": "Violet",
+      "id": 11
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-button-through-crochet-shirt-in-black/206527842-1-black/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 28,
+      "title": "Topman button through crochet shirt in black",
+      "size": "XS-S",
+      "style": "Relaxed",
+      "brand": "ASOS CURVE",
+      "color": "Black",
+      "id": 12
+    },
+    {
+      "url": "https://images.asos-media.com/products/new-look-neuva-york-t-shirt-in-stone/205904634-1-stone/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 15,
+      "title": "New Look neuva york t-shirt in stone",
+      "size": "M",
+      "style": "Regular",
+      "brand": "Parlez",
+      "color": "white",
+      "id": 13
+    },
+    {
+      "url": "https://images.asos-media.com/products/another-influence-oversized-chino-shorts-in-khaki/204203391-1-khaki/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shorts",
+      "price": 69,
+      "title": "Another Influence oversized chino shorts in khaki",
+      "size": "L",
+      "style": "Relaxed",
+      "brand": "Lay-Ban",
+      "color": "Neutral",
+      "id": 14
+    },
+    {
+      "url": "https://images.asos-media.com/products/ellesse-libero-swim-shorts-in-dusty-pink/205804285-1-darkpink/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shorts",
+      "price": 24,
+      "title": "ellesse Libero swim shorts in dusty pink",
+      "size": "L",
+      "style": "Regular",
+      "brand": "Ellese",
+      "color": "Pink",
+      "id": 15
+    },
+    {
+      "url": "https://images.asos-media.com/products/only-sons-revere-collar-shirt-with-embroidery-in-navy/206195898-1-navyblazer/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 55,
+      "title": "ONLY & SONS revere collar shirt with embroidery in navy",
+      "size": "XL",
+      "style": "Relaxed",
+      "brand": "Lay-Ban",
+      "color": "Multi",
+      "id": 16
+    },
+    {
+      "url": "https://images.asos-media.com/products/topman-relaxed-printed-short-in-stone/205805679-1-stone/?$n_480w$&wid=476&fit=constrain",
+      "category": "Shorts",
+      "price": 40,
+      "title": "Topman relaxed printed short in stone",
+      "size": "M",
+      "style": "Regular",
+      "brand": "Levis",
+      "color": "Multi",
+      "id": 17
+    },
+    {
+      "url": "https://images.asos-media.com/products/new-look-short-sleeve-textured-shirt-in-green-stripe/205800283-1-midgreen/?$n_480w$&wid=476&fit=constrain",
+      "category": "Tops",
+      "price": 28,
+      "title": "New Look short sleeve textured shirt in green stripe",
+      "size": "2XL",
+      "style": "Regular",
+      "brand": "Jack & Jones",
+      "color": "Neutral",
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "name": "Md Danish",
+      "email": "danishreza733@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Md Danish",
+      "email": "danishreza766@gmail.com",
+      "password": "125896",
+      "id": 2
+    }
+  ]
+}
