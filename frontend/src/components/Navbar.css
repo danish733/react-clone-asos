@@ -1,0 +1,31 @@
+/* Navbar.css */
+
+/* Define the default styles for links */
+.hove {
+    color: white;
+    font-family: Arial;
+    font-weight: 600;
+    
+    padding: 24px 15px;
+    text-decoration: none; /* Make sure links don't have any underlines */
+}
+
+/* Define the hover effect */
+.hove:hover {
+    background-color: #525050; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+}
+
+/* const linkStyle ={
+    color:'white',
+    fontFamily:'Arial',
+    fontWeight:600,
+    // backgroundColor:'red',
+    padding:'24px 15px',
+    _hover: {
+      backgroundColor: 'black', // Change background color on hover
+      color: 'black' // Change text color on hover
+    }
+    
+    
+  } */
